@@ -2,7 +2,7 @@
 Proposition de meilleur design de la plateforme monartisant
 
 Vu l'importance et le temps limité pour la présentation je suis allé sur les technologie suivante :
-HTML, CSS, BOOTSTRAP et JS.
+HTML, CSS, BOOTSTRAP, JS et PHP.
 
 - Copier le document ou couper le document "monartisant-master" puis mettez le dans le docmument www dans votre dossier wamp
   si vous n'avez pas wamp installé sur votre machine, je vous pris de bien vouloir l'installer en suivant cette vidéo : https://www.youtube.com/watch?v=NxatUbW1B3s
