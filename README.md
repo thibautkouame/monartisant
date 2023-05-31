@@ -1,5 +1,5 @@
 # monartisant
-Proposition de meilleur design de la plateforme monartisant
+Proposition de meilleur design pour la plateforme de declaration de sinitre de l'entreprise artisant
 
 Vu l'importance et le temps limité pour la présentation je suis allé sur les technologie suivante :
 HTML, CSS, BOOTSTRAP, JS et PHP.
