@@ -9,7 +9,7 @@ Pour pouvoir avoir le projet éxcutable en local je vous prie de suivre ces etap
 - Copier le document ou couper le document "monartisant-master" puis mettez le dans le docmument www dans votre dossier wampserver
   si vous n'avez pas wampserver installé sur votre machine, je vous prie de bien vouloir l'installer en suivant cette vidéo : https://www.youtube.com/watch?v=NxatUbW1B3s
 - Ensuite lancer phpMyAdmin depuis votre application wampserver, connectez vous en reseignant dans le champ utilisateur "root", puis assurez vous d'avoir selectionné MariaSql puis cliquez sur executer.
-- Ensuite créer une base de donnée avec pour nom "bd_mon_artisant". Par la suite importer la base de donnée "bd_mon_artisant.sql" dépuis votre document "monartisant-master"
+- Ensuite créer une base de donnée avec pour nom "bd_mon_artisant". Par la suite importer la base de donnée "bd_mon_artisant.sql" dépuis votre document "monartisant-master".
 
 Ici se trouve la struture du document monartisant-master: 
 pages/index.php : est la page d'acceuil du tableau de bord ou qui sera disponible dans votre cas via cette url : [http://localhost/monartisant-master/pages]
